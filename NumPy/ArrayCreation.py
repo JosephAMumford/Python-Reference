@@ -73,6 +73,8 @@ k = np.linspace(0, 2*pi, 100)
 # Print k
 print k
 
+# Create a sequence using the sin function with input array k
 l = np.sin(k)
 
+# Print l
 print l
